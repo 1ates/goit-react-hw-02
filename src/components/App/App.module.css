@@ -12,12 +12,6 @@
   }
 }
 
-.btnContainer {
-  display: flex;
-  gap: 16px;
-  margin-bottom: 48px;
-}
-
 .feedback {
   display: flex;
   text-align: center;
